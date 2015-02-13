@@ -1,9 +1,11 @@
 // Class Continuation
 // Anonymous category to define private methods in an implementation
-// 
-// Platform: All
+//
+// IDECodeSnippetIdentifier: 7A0F8EA2-2CCA-4B1E-AA48-C894C2505580
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 // Language: Objective-C
-// Completion Scope: Top Level
+// Platform: All
 
 @interface <#Class Name#> ()
 <#Continuation#>
