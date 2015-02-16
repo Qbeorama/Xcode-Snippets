@@ -1,6 +1,7 @@
 // dispatch_async Pattern for Background Processing
 // Dispatch to do work in the background, and then to the main queue with the results
 //
+// IDECodeSnippetCompletionPrefix: dispatch_async
 // IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: CA9D1179-4556-4A5F-8FEB-5AF377D344DE
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
